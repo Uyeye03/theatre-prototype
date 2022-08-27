@@ -1,0 +1,9 @@
+No..Tanggal.Theater.Jam.Judul.Total Penjualan.Total Pendapatan, 
+1, 2022-08-04, 1, 15.00, Incantation, 3, 90000.
+
+2, 2022-08-04, 2, 15.00, Minions: The Rise of Gru, 0, 0.
+
+3, 2022-08-03, 1, 12.30, Incantation, 1, 30000.
+
+4, 2022-07-27, 1, 15.00, Incantation, 2, 60000.
+
